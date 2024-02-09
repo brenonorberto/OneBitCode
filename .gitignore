@@ -1,0 +1,9 @@
+/build
+/coverage
+/node_modules
+
+**/__pycache__
+venv
+
+.env
+.DS_Store
