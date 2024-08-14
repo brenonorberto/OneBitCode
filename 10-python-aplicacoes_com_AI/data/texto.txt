@@ -1,0 +1,11 @@
+A programação frontend envolve a criação e o desenvolvimento da parte visual de um site ou aplicativo, ou seja, aquilo que os usuários veem e com o que interagem diretamente. Os principais elementos dessa área são HTML, CSS e JavaScript.
+
+- **HTML (HyperText Markup Language)**: Define a estrutura básica das páginas da web, utilizando elementos como títulos, parágrafos, imagens e links.
+
+- **CSS (Cascading Style Sheets)**: Responsável pela estilização do conteúdo definido pelo HTML, permitindo a criação de layouts, cores, fontes e outros aspectos visuais.
+
+- **JavaScript**: Linguagem de programação que permite adicionar interatividade às páginas, como animações, validação de formulários e outros comportamentos dinâmicos.
+
+Além dessas tecnologias, frameworks e bibliotecas como React, Angular e Vue.js são amplamente utilizados para facilitar e acelerar o desenvolvimento frontend, proporcionando componentes reutilizáveis e uma melhor organização do código.
+
+A programação frontend também envolve a criação de interfaces responsivas, que se adaptam a diferentes tamanhos de tela, e a otimização do desempenho para garantir uma boa experiência ao usuário. Por isso, é uma área que exige tanto conhecimentos técnicos quanto um senso estético apurado.
